@@ -8,7 +8,7 @@
  * Controller of the sbadminTestApp
  */
 angular.module('sbadminTestApp')
-  .controller('AboutCtrl', function ($scope) {
+  .controller('SessionCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
